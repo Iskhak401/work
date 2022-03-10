@@ -1,0 +1,9 @@
+linux
+aws
+terraform 
+ansible 
+docker 
+github
+jenkins
+kubernetes
+all of these help to 
