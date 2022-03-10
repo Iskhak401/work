@@ -1,9 +1,9 @@
-linux
-aws
-terraform 
-ansible 
-docker 
-github
-jenkins
-kubernetes
-all of these help to 
+linux = ftp nfs 
+aws ec2 vpc 
+terraform = inf as a code
+ansible = playbook
+docker docker -hub
+github branch
+jenkins ci and cd
+kubernetes -
+all of these help to support websites
